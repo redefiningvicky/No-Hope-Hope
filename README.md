@@ -1,6 +1,6 @@
 # ⚪ No Hope, Hope
 ## 🎯 Objective <br>
-This project explores the end of life through two contrasting impasto acrylic paintings of an elderly Chinese woman experiencing feelings of no hope and hope. Through visual motifs with Gemini, the collection shows the quietness of dying with fear and peace.
+This project explores the end of life through two contrasting impasto acrylic paintings of an elderly Chinese woman experiencing feelings of no hope and hope. Through visual motifs with Gemini, the collection shows the quietness of dying with sorrow and peace.
 ## 🛠️ Tools <br>
 Gemini <p>
 ## 🖼️ Images <br>
