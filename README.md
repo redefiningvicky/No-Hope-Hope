@@ -1,6 +1,12 @@
 # ⚪ No Hope, Hope
 ## 🎯 Objective <br>
 This project explores the end of life through two contrasting impasto acrylic paintings of an elderly Chinese woman experiencing feelings of no hope and hope. Through visual motifs with Gemini, the collection shows the quietness of dying with sorrow and peace.
+## 🎬 Inspiration <br>
+<ul>
+  <li><a href="https://www.reddit.com/r/midjourney/comments/1tpa10o/your_life_in_the_end/">MountainzN's Your Life In The End with Midjourney.</a></li>
+  <li>Pink carnations for my grandmother.</li>
+</ul>
+
 ## 🛠️ Tools <br>
 Gemini <p>
 ## ⚙️ Model <br>
