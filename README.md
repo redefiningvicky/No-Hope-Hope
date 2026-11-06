@@ -5,6 +5,7 @@ This project explores the end of life through two contrasting impasto acrylic pa
 <ul>
   <li><a href="https://www.reddit.com/r/midjourney/comments/1tpa10o/your_life_in_the_end/">MountainzN's Your Life In The End with Midjourney.</a></li>
   <li>Pink carnations for my grandmother.</li>
+  <li>Buddhist sutras.</li>
 </ul>
 
 ## 🛠️ Tools <br>
