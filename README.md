@@ -4,7 +4,7 @@ This project explores the end of life through two contrasting impasto acrylic pa
 ## 🛠️ Tools <br>
 Gemini <p>
 ## ⚙️ Model <br>
-Gemini 4 Argon, 2026 <p>
+Gemini 4 Argon (2026) <p>
 ## 🖼️ Images <br>
 
 <table>
