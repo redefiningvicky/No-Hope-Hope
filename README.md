@@ -14,5 +14,5 @@ Gemini 4 Argon <p>
   </tr>
   <tr>
     <td><img src="https://github.com/redefiningvicky/No-Hope-Hope/blob/02f6562a47fe1ce27fa162ffe68c160786054249/No_Hope_Hope/No_Hope_Hope_03.jpg" width="100%"></td>
-    <td><img src="https://github.com/redefiningvicky/No-Hope-Hope/blob/02f6562a47fe1ce27fa162ffe68c160786054249/No_Hope_Hope/No_Hope_Hope_04.jpg" width="100%"></td>
+    <td><img src="https://github.com/redefiningvicky/No-Hope-Hope/blob/a2f7d499ad19aa925c9ff12d7762a53469cfc077/No_Hope_Hope/No_Hope_Hope_04.jpg" width="100%"></td>
   </tr>
