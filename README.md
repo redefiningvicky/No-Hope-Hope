@@ -63,7 +63,7 @@
 
 <h2 id="images">🖼️ Images</h2>
 
-<h3>Image 1</h3>
+<h3>No Hope — Image 1</h3>
 
 <table>
   <tr>
@@ -79,7 +79,7 @@
   </tr>
 </table>
 
-<h3>Image 2</h3>
+<h3>Hope — Image 2</h3>
 
 <table>
   <tr>
@@ -95,7 +95,7 @@
   </tr>
 </table>
 
-<h3>Image 3</h3>
+<h3>No Hope — Image 3</h3>
 
 <table>
   <tr>
@@ -111,7 +111,7 @@
   </tr>
 </table>
 
-<h3>Image 4</h3>
+<h3>Hope — Image 4</h3>
 
 <table>
   <tr>
