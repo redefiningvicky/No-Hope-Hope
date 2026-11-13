@@ -60,7 +60,7 @@
 </p>
 
 <p>
-  <strong>Format:</strong> Images
+  <strong>Format:</strong> Image
 </p>
 
 <hr>
