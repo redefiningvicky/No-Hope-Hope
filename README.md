@@ -56,7 +56,7 @@
 </p>
 
 <p>
-  <strong>Model:</strong> Gemini 4 Argon (2026)
+  <strong>Models:</strong> Gemini 4 Argon (2026)
 </p>
 
 <p>
